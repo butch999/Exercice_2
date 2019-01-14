@@ -5,3 +5,7 @@ Le répertoire Exercice_2 contient les fichiers:
 	README.md (transférer de Github lors du clonage du Repository Exercice_2)
         1stFile.txt (le fichier est vide lors du premier commit)
 	2ndFile.txt (le fichier est vide lors du premier commit)
+
+Update du fichier README.txt:
+        1stFile.txt (le fichier est completé)
+	2ndFile.txt (le fichier est complété)

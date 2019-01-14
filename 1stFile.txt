@@ -1,0 +1,7 @@
+Le fichier 1stFile présente la liste des pièces du jeu d'échecs:
+   - pion
+   - roi
+   - reine
+   - fou
+   - cheval
+   - tour
